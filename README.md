@@ -3,7 +3,26 @@
  <img src="https://iili.io/L3cRPS.png" />
 </h1>
 
-## Fertilizers Recommendation System For Disease Prediction <img src="https://media1.giphy.com/media/f9Auu2zwYo1XGTsSPg/giphy.gif?cid=ecf05e47tnkhhm9of0gy1c66gntftbo34jm2iv8h5o4tq63e&rid=giphy.gif&ct=s" width="30px">
+<h2 align="center">Fertilizers Recommendation System For Disease Prediction <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank">Project</a></h2>
+
+
+<h4 align="center">A Revolutionary Project for the Agricultural Growth </h4>
+
+
+<p align="center">
+  </a>
+   <a href="https://en.wikipedia.org/wiki/Machine_learning">
+    <img src="https://img.shields.io/badge/Machine Learning-0000FF.svg?maxAge=2592000&amp;style=flat">
+  </a>
+
+  <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731/pulls">
+      <img src="https://img.shields.io/badge/Pull Request-%E2%98%BC-1EAEDB.svg">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  </a>
+</p>
+
 
 ## MOTIVATION <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - Farming is one of the major sectors that influences a country’s economic growth. 
