@@ -4,10 +4,16 @@
  <img src="https://iili.io/L3cRPS.png" />
 </h1>
 
-<h2 align="center">Fertilizers Recommendation System For Disease Prediction <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank">Project</a></h2>
+<h2 align="center">Fertilizers Recommendation System For Disease Prediction <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.gif" alt="🍀" width="32" height="32">
+</picture></a></h2>
 
 
-<h4 align="center">A Revolutionary Project for the Agricultural Growth </h4>
+<h4 align="center">A Revolutionary Project for the Agricultural Growth 🌞 Made with <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="20" height="20">
+</picture> </h4>
 
  
 <p align="center">
@@ -120,9 +126,9 @@
 
  <div>
  <h2><picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a5/512.gif" alt="💥" width="32" height="32">
-</picture> Is it an Oppurtunity [By Public Review :</h2></div>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
+</picture> Is it an Oppurtunity [ By Public Review ] :</h2></div>
 <picture>&emsp;&emsp;&emsp;
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
