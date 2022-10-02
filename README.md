@@ -1,7 +1,7 @@
 
 
 <h1>
- <img src="https://iili.io/L3cRPS.png" />
+ <img src="https://i.postimg.cc/fTzbSp6h/ib-M-BANNER2.png" />
 </h1>
 
 <h2 align="center">Fertilizers Recommendation System For Disease Prediction <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"><picture>
