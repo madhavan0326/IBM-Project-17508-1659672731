@@ -129,7 +129,7 @@
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f389/512.gif" alt="🎉" width="32" height="32">
-</picture> Is it an Oppurtunity [ By Public Review ] :</h2></div>
+</picture> Is it an Opportunity [ By Public Review ] :</h2></div>
 <picture>&emsp;&emsp;&emsp;
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
