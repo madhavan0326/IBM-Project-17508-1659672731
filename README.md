@@ -14,20 +14,29 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="20" height="20">
 </picture> </h4>
-
  
 <p align="center">
+ 
+<img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
 
-   <a href="https://en.wikipedia.org/wiki/Machine_learning">
-    <img src="https://img.shields.io/badge/Machine Learning-0000FF.svg?maxAge=2592000&amp;style=flat">
+   <a href="https://www.python.org/g">
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =182 >
   </a>
 
-  <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731/pulls">
-      <img src="https://img.shields.io/badge/Pull Request-%E2%98%BC-1EAEDB.svg">
+  <a href="https://www.ibm.com/cloud">
+      <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white">
+   </a>
+ 
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    </a>
+ 
+ <a href="https://keras.io/">
+    <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
+    </a>
 </p>
 
 
