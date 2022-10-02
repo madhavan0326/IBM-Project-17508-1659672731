@@ -1,8 +1,8 @@
 
 
-<h1>
- <img src="https://i.postimg.cc/fTzbSp6h/ib-M-BANNER2.png" />
-</h1>
+<a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731">
+ <img src="https://i.postimg.cc/fTzbSp6h/ib-M-BANNER2.png">
+</a>
 
 <h2 align="center">Fertilizers Recommendation System For Disease Prediction <a href="https://github.com/IBM-EPBL/IBM-Project-17508-1659672731" target="_blank"><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f340/512.webp" type="image/webp">
@@ -16,9 +16,9 @@
 </picture> </h4>
  
 <p align="center">
- 
+<a href="https://www.ibm.com/in-en">
 <img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
-
+</a>
    <a href="https://www.python.org/g">
     <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =182 >
   </a>
