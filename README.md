@@ -176,7 +176,7 @@
 
 
 
-![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![](https://svgur.com/i/nQ2.svg)
 
 
 <!--🦶FOOTER--> 
