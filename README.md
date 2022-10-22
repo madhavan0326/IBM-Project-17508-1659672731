@@ -164,7 +164,14 @@
 - [x] Empathy Map <br>
 - [x] Assignment 1 <br>
 - [x] Assignment 2  <br>
+- [x] Assignment 3  <br>
 - [x] Proposed Solution <br>
+- [x] Proposed Solution fit <br>
+- [x] Solution Architecture <br>
+- [x] Data Flow Diagram <br>
+- [x] Solution Requirements <br>
+- [x] Technology Stack <br>
+- [x] Customer Journey Map <br>
 
 
 <br>
