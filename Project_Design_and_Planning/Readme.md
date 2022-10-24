@@ -8,4 +8,3 @@
 - [x] Solution Requirements <br>
 - [x] Technology Stack <br>
 - [x] Customer Journey Map <br>
-- [x] empty <br>
