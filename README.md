@@ -160,9 +160,11 @@
 - [x] Brainstorm and Ideation <br>
 - [x] Problem Statement <br>
 - [x] Empathy Map <br>
-- [x] Assignment 1 <br>
-- [x] Assignment 2  <br>
-- [x] Assignment 3  <br>
+- [x] Assignment - 1 <br>
+- [x] Assignment - 2  <br>
+- [x] Assignment - 3  <br>
+- [x] Assignment - 4 <br>
+
 - [x] Proposed Solution <br>
 - [x] Proposed Solution fit <br>
 - [x] Solution Architecture <br>
